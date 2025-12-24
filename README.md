@@ -17,14 +17,14 @@
 - [Cartivo](https://cartivo-pink.vercel.app/)
 
 ### 🌱 I’m currently learning  
-- **Next.js**  
+- **Node JS**  
 - **TypeScript**
 
 ### 👨‍💻 All of my projects are available at  
 - [Portfolio Website](https://abdunnoor.vercel.app/)
 
 ### 💬 Ask me about  
-- **React.js, JavaScript, Frontend Development**
+- **Next js, React.js, JavaScript, Frontend Development**
 
 ### 📫 How to reach me  
 - **abdunnoor2450@gmail.com**
