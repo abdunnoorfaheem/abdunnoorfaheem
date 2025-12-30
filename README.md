@@ -1,73 +1,73 @@
-<h1 align="center">Md. Abdun Noor</h1>
+<h1 align="center">👋 Hi, I'm Md. Abdun Noor</h1>
 <h3 align="center">Frontend Developer | React & Next.js Specialist</h3>
 
 <p align="center">
-  <a href="https://abdunnoor.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/md-abdun-noor-22388b253/">LinkedIn</a> •
-  <a href="mailto:abdunnoor2450@gmail.com">Email</a>
+  <a href="https://abdunnoor.vercel.app" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/md-abdun-noor-22388b253/" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:abdunnoor2450@gmail.com">📧 Email</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdunnoorfaheem&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=abdunnoorfaheem&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 👋 About Me
-I am a passionate **Frontend Developer from Bangladesh** with hands-on experience in building modern, responsive, and performance-focused web applications.  
-I enjoy transforming UI/UX designs into clean, scalable code using **React & Next.js**.
+## 👨‍💻 About Me
+I’m a **Frontend Developer from Bangladesh** who enjoys building fast, responsive, and scalable web applications.  
+I specialize in transforming UI/UX designs into high-quality, maintainable code using **React and Next.js**.
 
-I have experience working as a **team lead** in collaborative projects and love writing maintainable, production-ready frontend solutions.
+I’ve worked on **team-based projects as a Team Lead**, collaborating closely with designers and developers to deliver production-ready solutions.
 
 ---
 
-## 🚀 Current Focus
-- Developing a React-based eCommerce platform: **[Cartivo](https://cartivo-pink.vercel.app/)**
-- Improving application performance & UI consistency
-- Writing clean, reusable component architecture
+## 🚀 What I’m Working On
+- 🛒 Building a React-based eCommerce platform — **[Cartivo](https://cartivo-pink.vercel.app/)**
+- ⚡ Improving performance, accessibility, and UI consistency
+- 🧩 Designing reusable component architectures
 
 ---
 
 ## 📚 Currently Learning
-- **Node.js**
-- **TypeScript**
-- Backend integration & API handling
+- TypeScript for scalable frontend development  
+- Node.js & backend fundamentals  
+- Advanced API integration patterns  
 
 ---
 
-## 💡 Expertise
-- React.js & Next.js
-- JavaScript (ES6+)
-- Responsive UI Design
-- State Management (Redux)
-- REST API Integration
-- Team Collaboration & Git Workflow
+## 🧠 Core Skills
+- React.js & Next.js  
+- JavaScript (ES6+)  
+- Responsive & Mobile-First Design  
+- Redux & State Management  
+- REST API Integration  
+- Git, GitHub & Team Collaboration  
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,redux,tailwind,bootstrap,html,css,sass,figma,git,linux,postman" />
 </p>
 
 ---
 
-## 🌐 Featured Projects
-🔹 **Cartivo – eCommerce Platform**  
-React-based modern shopping platform with dynamic UI, cart system, and reusable components  
-👉 https://cartivo-pink.vercel.app/
+## 🌟 Featured Projects
 
-🔹 **Portfolio Website**  
-Personal portfolio showcasing projects, skills, and experience  
-👉 https://abdunnoor.vercel.app/
+### 🛍️ Cartivo – eCommerce Platform
+A modern React-based shopping platform featuring reusable components, dynamic UI, and cart functionality.  
+🔗 Live: https://cartivo-pink.vercel.app/
+
+### 🌐 Personal Portfolio
+A clean and responsive portfolio showcasing my projects, skills, and experience.  
+🔗 Live: https://abdunnoor.vercel.app/
 
 ---
 
-## 📊 GitHub Analytics
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdunnoorfaheem&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdunnoorfaheem&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdunnoorfaheem&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdunnoorfaheem&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -76,12 +76,12 @@ Personal portfolio showcasing projects, skills, and experience
 
 ---
 
-## 📫 Contact
-📧 **Email:** abdunnoor2450@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/md-abdun-noor-22388b253/
+## 📫 Get in Touch
+- 📧 Email: **abdunnoor2450@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/md-abdun-noor-22388b253/
 
 ---
 
 <p align="center">
-  <i>“Building clean interfaces with scalable frontend architecture.”</i>
+  <i>“I build clean interfaces with scalable frontend architecture.”</i>
 </p>
