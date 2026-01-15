@@ -2,9 +2,9 @@
 <h3 align="center">Frontend Engineer • React & Next.js</h3>
 
 <p align="center">
-  <a href="https://abdunnoor.vercel.app" target="_blank">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/md-abdun-noor-22388b253/" target="_blank">LinkedIn</a> ·
-  <a href="mailto:abdunnoor2450@gmail.com">Email</a>
+  <a href="https://abdunnoor.vercel.app" target="_blank"><b>🌐 Portfolio</b></a> ·
+  <a href="https://www.linkedin.com/in/md-abdun-noor-22388b253/" target="_blank"><b>💼 LinkedIn</b></a> ·
+  <a href="mailto:abdunnoor2450@gmail.com"><b>📧 Email</b></a>
 </p>
 
 <p align="center">
@@ -13,81 +13,89 @@
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I’m a **Frontend Engineer from Bangladesh** with a strong focus on building **scalable, performance-driven, and user-centric web applications**.
+I’m a **Frontend Engineer from Bangladesh** passionate about building **scalable, high‑performance, and user‑focused web applications**.
 
-I specialize in **React and Next.js**, translating UI/UX designs into clean, maintainable, and production-ready code.  
-I’ve also worked as a **Team Lead on collaborative projects**, coordinating with designers and developers to deliver high-quality results on time.
+I specialize in **React.js and Next.js**, turning UI/UX designs into **clean, maintainable, and production‑ready code**. I’ve also worked as a **Team Lead** on collaborative projects—coordinating with designers and developers to deliver quality results on time.
 
-I care deeply about:
-- Code quality & reusability  
-- Performance and accessibility  
-- Clean UI with solid architecture  
+**What matters to me:**
+
+* Clean & reusable code architecture
+* Performance, SEO, and accessibility (a11y)
+* Pixel‑perfect UI with real‑world scalability
 
 ---
 
-## 💼 What I’m Focused On
-- Developing real-world React & Next.js applications  
-- Improving frontend performance and accessibility (a11y)  
-- Building scalable component-based architectures  
-- Writing clean, readable, and maintainable code  
+## 🎯 Current Focus
+
+* Building production‑grade React & Next.js applications
+* Optimizing frontend performance and accessibility
+* Designing scalable, component‑driven systems
+* Writing readable, maintainable, and test‑friendly code
 
 ---
 
 ## 🧠 Technical Skills
 
-**Frontend**
-- React.js, Next.js  
-- JavaScript (ES6+), TypeScript  
-- Redux & modern state management  
+### ⚛️ Frontend
 
-**UI & Styling**
-- Tailwind CSS, Bootstrap, Sass  
-- Responsive & Mobile-First Design  
-- Figma to Pixel-Perfect UI  
+* React.js, Next.js
+* JavaScript (ES6+), TypeScript
+* Redux & modern state management
 
-**Tools & Workflow**
-- Git & GitHub  
-- REST API Integration  
-- Postman, Linux  
-- Team collaboration & code reviews  
+### 🎨 UI & Styling
+
+* Tailwind CSS, Bootstrap, Sass
+* Responsive & Mobile‑First Design
+* Figma → Pixel‑Perfect UI Implementation
+
+### 🛠️ Tools & Workflow
+
+* Git & GitHub
+* REST API Integration
+* Postman, Linux
+* Team collaboration & code reviews
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,redux,tailwind,bootstrap,html,css,sass,figma,git,linux,postman" />
 </p>
 
 ---
 
-## 🌟 Selected Projects
+## 🚀 Selected Projects
 
 ### 🛒 Cartivo — eCommerce Platform
-A modern, scalable React-based eCommerce application featuring reusable components, dynamic product handling, and cart management.
 
-**Highlights**
-- Component-driven architecture  
-- Clean UI with responsive layouts  
-- Scalable state management  
+A modern, scalable **React‑based eCommerce application** with reusable components, dynamic product handling, and cart management.
 
-🔗 Live Demo: https://cartivo-pink.vercel.app/
+**Key Highlights**
+
+* Component‑driven architecture
+* Clean, responsive UI
+* Scalable state management
+
+🔗 **Live Demo:** [https://cartivo-pink.vercel.app/](https://cartivo-pink.vercel.app/)
 
 ---
 
 ### 🌐 Personal Portfolio
+
 A minimal and responsive portfolio showcasing my projects, skills, and professional journey.
 
-🔗 Live Demo: https://abdunnoor.vercel.app/
+🔗 **Live Demo:** [https://abdunnoor.vercel.app/](https://abdunnoor.vercel.app/)
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdunnoorfaheem&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdunnoorfaheem&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdunnoorfaheem&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdunnoorfaheem&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
@@ -96,9 +104,11 @@ A minimal and responsive portfolio showcasing my projects, skills, and professio
 
 ---
 
-## 📫 Contact
-- 📧 Email: **abdunnoor2450@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/md-abdun-noor-22388b253/
+## 📬 Contact Me
+
+* 📧 **Email:** [abdunnoor2450@gmail.com](mailto:abdunnoor2450@gmail.com)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/md-abdun-noor-22388b253/](https://www.linkedin.com/in/md-abdun-noor-22388b253/)
+* 🌐 **Portfolio:** [https://abdunnoor.vercel.app](https://abdunnoor.vercel.app)
 
 ---
 
