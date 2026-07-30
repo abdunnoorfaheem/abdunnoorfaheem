@@ -1,121 +1,139 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Md.%20Abdun%20Noor&subtitle=Frontend%20Engineer%20•%20React%20%26%20Next.js&theme=tokyonight&fontSize=42&fontAlignY=45" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://abdunnoor.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-abdun-noor-22388b253/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abdunnoor2450@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=250&section=header&text=Md.%20Abdun%20Noor&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20Full-Stack%20Web%20Craftsman&descAlignY=55&descSize=18" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdunnoorfaheem&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=600&lines=Building+with+MongoDB+%2B+Express+%2B+React+%2B+Node;From+Database+Schema+to+Pixel-Perfect+UI;Mentor+%7C+Full-Stack+Problem+Solver" alt="Typing SVG" />
 
-## ⚡ About Me
+<br/><br/>
 
-I am a forward-thinking **Frontend Engineer** based in Bangladesh, dedicated to engineering high-performance, accessible, and scalable web applications. 
+<a href="https://abdunnoor.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=00C9A7" /></a>
+<a href="https://www.linkedin.com/in/md-abdun-noor-22388b253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdunnoor2450@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-Specializing in the **React and Next.js ecosystems**, I bridge the gap between complex UI/UX designs and robust, production-ready frontend architectures. With proven experience as a **Team Lead**, I thrive in collaborative environments, conducting code reviews, mentoring peers, and aligning frontend strategies with business objectives.
+<img src="https://komarev.com/ghpvc/?username=abdunnoorfaheem&label=Profile%20Views&color=00c9a7&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
 
-* 🛠️ **Core Philosophy:** Component-driven development, pixel-perfect responsiveness, and clean code architecture.
-* 📈 **Performance-Driven:** Deeply focused on optimizing SEO, Core Web Vitals, and structural accessibility (a11y).
+</div>
 
----
+<br/>
 
-## 🚀 Technical Expertise
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3&width=100%25" />
+
+## 🧭 About Me
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+```javascript
+const abdunNoor = {
+  role: "MERN Stack Developer",
+  location: "Bangladesh 🇧🇩",
+  stack: ["MongoDB", "Express.js", "React", "Node.js"],
+  currentFocus: "Scalable full-stack apps & clean architecture",
+  leadership: "Mentor — code reviews & guiding fellow developers",
+  philosophy: "From database to DOM, I build the whole thing.",
+  funFact: "Chases 100/100 Lighthouse scores for fun 🚀"
+};
+```
+
+- 🔭 Building **end-to-end MERN applications** — REST APIs, schema design, state management, and responsive UI.
+- 👨‍💻 Mentor fellow developers — code reviews, guidance, and translating business goals into engineering decisions.
+- ⚙️ Obsessed with **performance**, **accessibility (a11y)**, and **clean, scalable code**.
+- 🌱 Currently deepening backend architecture & system design skills.
+- 💬 Ask me about: `React`, `Next.js`, `Node.js`, `MongoDB`, `Tailwind CSS`
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3&width=100%25" />
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,sass,bootstrap,figma&theme=dark" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redux&theme=dark" />
+
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3&width=100%25" />
+
+## 🛠️ Featured Projects
+
+<div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="30%"><strong>Languages & Frameworks</strong></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>State & Data</strong></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/redux-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=json&logoColor=white" alt="REST" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>UI & Styling Systems</strong></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
-      <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools & Workflow</strong></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🛒 Cartivo
+**Next-Gen eCommerce Platform**
+
+Scalable, conversion-optimized eCommerce app with real-time state management, dynamic product filtering & seamless cart lifecycles.
+
+`React.js` `Redux Toolkit` `Tailwind CSS` `REST APIs`
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-00C9A7?style=for-the-badge&logoColor=white)](https://cartivo-pink.vercel.app/)
+
+</td>
+<td width="50%">
+
+### 🌐 Engineer Portfolio
+**Professional Showcase Site**
+
+Blazing-fast SSG portfolio with 100/100 Lighthouse scores, semantic SEO-first HTML, and zero layout shift.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Vercel`
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-0f2027?style=for-the-badge&logoColor=00C9A7)](https://abdunnoor.vercel.app/)
+
+</td>
+</tr>
 </table>
 
----
+</div>
 
-## 🛠️ Featured Enterprise Projects
+> 💡 **More full-stack (MERN) projects with live APIs and database-backed features — coming soon.**
 
-### 🛒 Cartivo — Next-Gen eCommerce Platform
-A highly scalable, performant eCommerce web application optimized for conversion, featuring real-time client-side state management.
-* **Key Implementations:** Advanced component modularity, dynamic product filtering, seamless cart lifecycles, and a responsive mobile-first UI.
-* **Architecture:** `React.js` • `Redux Toolkit / Context API` • `Tailwind CSS` • `RESTful APIs`
-* 🔗 **Production Link:** [Live Demo](https://cartivo-pink.vercel.app/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3&width=100%25" />
 
-### 🌐 Engineer Portfolio — Professional Showcase
-A lightweight, blazing-fast web application showcasing production-grade engineering practices, optimized for 100/100 Lighthouse scores.
-* **Key Implementations:** Static Site Generation (SSG), highly semantic HTML for SEO, fully accessible layouts, and zero fluid layout shifts.
-* **Architecture:** `Next.js` • `TypeScript` • `Tailwind CSS` • `Vercel Deployment`
-* 🔗 **Production Link:** [Live Demo](https://abdunnoor.vercel.app/)
+## 📊 GitHub Analytics
 
----
+<div align="center">
 
-## 📊 Git Analytics & Performance
+<img src="https://github-readme-stats.vercel.app/api?username=abdunnoorfaheem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f2027&title_color=00c9a7&icon_color=00c9a7" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdunnoorfaheem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00c9a7" height="180" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdunnoorfaheem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdunnoorfaheem&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=abdunnoorfaheem&theme=tokyonight&hide_border=true&background=0f2027&ring=00c9a7&fire=00c9a7" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abdunnoorfaheem&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdunnoorfaheem&theme=react-dark&hide_border=true&bg_color=0f2027&color=00c9a7&line=00c9a7&point=ffffff" width="100%" />
 
-### 📈 Metrics & Activity History
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdunnoorfaheem&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</p>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3&width=100%25" />
 
-## 📬 Let's Collaborate
+## 🤝 Let's Collaborate
 
-I am open to enterprise opportunities, remote frontend roles, and consulting on open-source initiatives.
+<div align="center">
 
-* 🌐 **Official Website:** [abdunnoor.vercel.app](https://abdunnoor.vercel.app)
-* 💼 **LinkedIn Network:** [Md. Abdun Noor](https://www.linkedin.com/in/md-abdun-noor-22388b253/)
-* 📧 **Direct Inbox:** [abdunnoor2450@gmail.com](mailto:abdunnoor2450@gmail.com)
+Open to **full-stack (MERN) roles**, remote opportunities, and freelance projects.
 
----
-<p align="center">
-  <i>“Engineered with precision, styled with intent.”</i>
-</p>
+<a href="https://abdunnoor.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=vercel&logoColor=00C9A7" /></a>
+<a href="https://www.linkedin.com/in/md-abdun-noor-22388b253/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdunnoor2450@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+*"From database to DOM — I build the whole thing."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=120&section=footer" />
