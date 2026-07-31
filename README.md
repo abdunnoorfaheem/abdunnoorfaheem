@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=600&lines=Building+with+MongoDB+%2B+Express+%2B+React+%2B+Node;From+Database+Schema+to+Pixel-Perfect+UI;Mentor+%7C+Full-Stack+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=900&lines=Building+with+MongoDB+%2B+Express+%2B+React+%2B+Node;From+Database+Schema+to+Pixel-Perfect+UI;Mentor+%7C+Full-Stack+Problem+Solver" alt="Typing SVG" />
 
 <br/><br/>
 
